@@ -26,7 +26,9 @@ https://uigpt.com
 
 - If you use low image quality(it's by default) you should try to generate specific parts of the page to get good quality even though it can generate a complete login/signup page without this.
 - If you want specific details to be included you should not be using low image quality.
-- If the page generated is empty or without CSS, check cdn scripts and fix if possible, inshaAllah.
+- If the page generated is empty or without CSS:
+  1. Copy paste the generated code to a local file and check if works.
+  2. Check cdn scripts and fix if possible, inshaAllah.
 - It costs around 0.017$ to generate a page with low quality.
 
 ## Getting Started
