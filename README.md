@@ -2,6 +2,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Yusuf-YENICERI/UiGPT.svg)](https://github.com/Yusuf-YENICERI/UiGPT/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Yusuf-YENICERI/UiGPT.svg)](https://github.com/Yusuf-YENICERI/UiGPT/network)
 [![GitHub issues](https://img.shields.io/github/issues/Yusuf-YENICERI/UiGPT.svg)](https://github.com/Yusuf-YENICERI/UiGPT/issues)
+
 <div align="center">
   <img src="https://github.com/Yusuf-YENICERI/UiGPT/assets/38917909/c3cd335a-e578-4fc4-90d9-d2e5c9914f87" alt="UiGPT Icon">
 </div>
