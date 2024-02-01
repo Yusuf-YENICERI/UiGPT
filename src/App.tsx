@@ -71,7 +71,7 @@ function App() {
           </div>
         </div>
         <div onClick={()=>{
-          window.location.href = "https://github.com/Yusuf-YENICERI"
+          window.location.href = "https://github.com/Yusuf-YENICERI/UiGPT"
         }} style={{width:  isMobile ? '100%' : '33%', display: 'flex', alignItems: 'center', justifyContent :'center', flexDirection: 'column',
       marginTop: isMobile ? '60px' : '50px'}}>
             <div style={{textAlign: 'center'}}>
