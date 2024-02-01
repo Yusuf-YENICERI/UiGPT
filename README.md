@@ -1,6 +1,6 @@
 <h2 align="center">Free Palestine && Terrorist israel</h2>
 
-# UiGPT - Image/Wireframe to Code Generator
+# UiGPT - Image/Wireframe to Code
 [![GitHub stars](https://img.shields.io/github/stars/Yusuf-YENICERI/UiGPT.svg)](https://github.com/Yusuf-YENICERI/UiGPT/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Yusuf-YENICERI/UiGPT.svg)](https://github.com/Yusuf-YENICERI/UiGPT/network)
 [![GitHub issues](https://img.shields.io/github/issues/Yusuf-YENICERI/UiGPT.svg)](https://github.com/Yusuf-YENICERI/UiGPT/issues)
