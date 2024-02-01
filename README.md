@@ -21,7 +21,7 @@ UiGPT is a powerful tool that enables users to convert images and wireframes int
 
 ## Try now
 
-https://uigpt.com
+https://uigptbeta.netlify.app/
 
 ## Hints
 
