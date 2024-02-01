@@ -1,30 +1,61 @@
-# React + TypeScript + Vite
+# UiGPT - Image/Wireframe to Code Generator
+[![GitHub stars](https://img.shields.io/github/stars/Yusuf-YENICERI/UiGPT.svg)](https://github.com/Yusuf-YENICERI/UiGPT/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Yusuf-YENICERI/UiGPT.svg)](https://github.com/Yusuf-YENICERI/UiGPT/network)
+[![GitHub issues](https://img.shields.io/github/issues/Yusuf-YENICERI/UiGPT.svg)](https://github.com/Yusuf-YENICERI/UiGPT/issues)
+<div align="center">
+  <img src="https://github.com/Yusuf-YENICERI/UiGPT/assets/38917909/c3cd335a-e578-4fc4-90d9-d2e5c9914f87" alt="UiGPT Icon">
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+UiGPT is a powerful tool that enables users to convert images and wireframes into code within seconds. It supports various frameworks such as Bootstrap, Tailwind CSS, React, and more. With the openai API integration, UiGPT delivers a seamless web page generation experience.
 
-- Configure the top-level `parserOptions` property like this:
+## Features
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- 🚀 Rapid conversion from image/wireframe to code
+- 💡 Supports popular frameworks: Bootstrap, Tailwind CSS, React, etc.
+- ⚙️ Easy to use and customize for your projects
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Try now
+
+https://uigpt.com
+
+## Hints
+
+- If you use low image quality(it's by default) you should try to generate specific parts of the page to get good quality even though it can generate a complete login/signup page without this.
+- If you want specific details to be included you should not be using low image quality.
+- If the page generated is empty or without CSS:
+  1. Copy paste the generated code to a local file and check if works.
+  2. Check cdn scripts and fix if possible, inshaAllah.
+- It costs around 0.017$ to generate a page with low quality.
+
+## Getting Started
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Yusuf-YENICERI/UiGPT.git
+   cd UiGPT
+   ```
+   
+2. **Install dependencies:**
+
+    ```bash
+    # Assuming you have Node.js and yarn installed
+    yarn install
+    ```
+    
+ 3. **Run the application:**
+    
+    ```bash
+    yarn dev
+    ```
+
+
+## Support
+If you encounter any issues or have questions, feel free to open an issue.
+
+## Contributing
+Feel free to contribute.
